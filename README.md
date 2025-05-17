@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">I have hands-on experience with these technologies, using them in both academic and personal projects</h4>
+<h3 align="left">I have hands-on experience with these technologies, using them in both academic and personal projects</h3>
 
 ###
 
