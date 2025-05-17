@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h2 align="left">Hello👋, I am Satyatma Chincholi</h2>
+<h1 align="left">Hello👋, I am Satyatma Chincholi</h1>
 
 ###
 
-<h3 align="left">🎓Student at RV University, Bengaluru, India.<br>💻 Pursuing B.Tech (Hons.) in Computer Science.<br>🔬Major in AI/ML | Minor in Blockchain Technology.<br>✨Deeply passionate about Web Development and UI/UX.<br>⚽Also, an avid football enthusiast!</h3>
+<h2 align="left">🎓Student at RV University, Bengaluru, India.<br>💻 Pursuing B.Tech (Hons.) in Computer Science.<br>🔬Major in AI/ML | Minor in Blockchain Technology.<br>✨Deeply passionate about Web Development and UI/UX.<br>⚽Also, an avid football enthusiast!</h2>
 
 ###
 
-<h6 align="left">I have hands-on experience with these technologies, using them in both academic and personal projects</h6>
+<h4 align="left">I have hands-on experience with these technologies, using them in both academic and personal projects</h4>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h6 align="left">satyatmachincholi2005@gmail.com</h6>
+<h6 align="left">Mail : satyatmachincholi2005@gmail.com</h6>
 
 ###
 
